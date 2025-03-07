@@ -4,8 +4,12 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-https://skillicons.dev/icons?i=html,css,nodejs,figma,tailwind&theme=light
+- ⚡ Fun fact: ..
+- <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 <!---
 Javad-mosavian/Javad-mosavian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
