@@ -40,5 +40,3 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/Javad-mosavian/Javad-mosavian/output/pacman-contribution-graph.svg" alt="Pacman animation" />
-
