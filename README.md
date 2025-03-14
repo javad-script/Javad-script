@@ -1,14 +1,11 @@
-<h2 align="left">Where Art 🎨 Meets My Emotion 🎭.<br>Pixels Dance to the Rhythm My Code.</h2>
+<h3 align="left">Where Art 🎨 Meets My Emotion 🎭.<br>Pixels Dance to the Rhythm My Code.</h3>
 
-###
 
 <p align="left">My name is javad. from Persia(iran)</p>
 
-###
 
 <h2 align="left">My Social medias</h2>
 
-###
 
 <div align="center">
   <a href="dev.javad.mosavian@gmail.com" target="_blank">
@@ -22,11 +19,9 @@
   </a>
 </div>
 
-###
 
 <h2 align="left">I Work With</h2>
 
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -44,8 +39,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" height="40" alt="less logo"  />
 </div>
 
-###
 
 <img src="https://raw.githubusercontent.com/Javad-mosavian/Javad-mosavian/output/pacman-contribution-graph.svg" alt="Pacman animation" />
 
-###
