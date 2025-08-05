@@ -21,7 +21,7 @@
 
 
 <h2 align="left">I Work With</h2>
-<a href="https://wakatime.com/@d4b87936-99ed-4bf2-9f20-d1f5f2394c3e"><img src="https://wakatime.com/badge/user/d4b87936-99ed-4bf2-9f20-d1f5f2394c3e.svg" alt="Total time coded since May 17 2025" /></a>
+[![wakatime](https://wakatime.com/badge/user/d4b87936-99ed-4bf2-9f20-d1f5f2394c3e.svg)](https://wakatime.com/@d4b87936-99ed-4bf2-9f20-d1f5f2394c3e)
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
