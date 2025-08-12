@@ -1,42 +1,39 @@
-<h3 align="left">Where Art 🎨 Meets My Emotion 🎭.<br>Pixels Dance to the Rhythm My Code.</h3>
+<h1 align="center">Hey 👋What's Up?</h1>
 
-
-<p align="left">My name is javad. from Persia(iran)</p>
-
-
-<h2 align="left">My Social medias</h2>
-
+###
 
 <div align="center">
-  <a href="dev.javad.mosavian@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="54" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://t.me/Javad-mosavian" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="54" height="40" alt="telegram logo"  />
-  </a>
-  <a href="https://www.instagram.com/mj_mosavian" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="54" height="40" alt="instagram logo"  />
-  </a>
+    <p>i am javad mousavian . a front end developer from persia</p>
+
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="60" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img width="12" />
 </div>
 
-
-<h2 align="left">I Work With</h2>
-<a href="https://wakatime.com/@d4b87936-99ed-4bf2-9f20-d1f5f2394c3e"><img src="https://wakatime.com/badge/user/d4b87936-99ed-4bf2-9f20-d1f5f2394c3e.svg" alt="Total time coded since May 17 2025" /></a>
+###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" height="40" alt="less logo"  />
+  <img src="https://github-profile-trophy.vercel.app?username=javad-script&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
+
+###
+
+<center>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=javad-script&show_icons=true&locale=en&layout=compact&theme=dracula" alt="javad-script" /></p>
+</center>
+
 
 
